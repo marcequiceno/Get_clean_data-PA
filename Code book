@@ -1,0 +1,13 @@
+# Codebook
+To make the tidy data set you have to:
+1. Install packages "data.table" and "reshape2"
+2. Read files in directory "UCI HAR Dataset"
+   a) act_lab: read file "activity_labels.txt" in "UCI HAR Dataset"
+   b) feat: read file "features.txt" in "UCI HAR Dataset"
+   c) ext_feat: extract from features.txt mean and std
+   d) X_test, y_test and subject_test: read file "X_test.txt", "y_test.txt" and "subject_test", all in "UCI HAR Dataset/test"
+3. Set names (feat) to X_test
+4. X_test: extract from X_test measurements with mean and std
+5. Load activity labels
+6. Bind data
+7. Load and process X_train & y_train data
