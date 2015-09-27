@@ -5,7 +5,7 @@
 
 -Subject: identifier of the subject who carried out the experiment. The experiments have been carried out with a group of 30 volunteers, each person performed six activities.  
 - Activity_Label: Laying, Sitting, Standing, Walking, Walking_downstairs, Walking_upstairs.  
--Average of the mean and standard deviation for: Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration and Triaxial Angular velocity from the gyroscope. List of variables (79):  
+-Average of the mean and standard deviation for: Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration (standard gravity units 'g') and Triaxial Angular velocity from the gyroscope (units randians/second). List of variables:  
 tBodyAcc-mean()-X  
 tBodyAcc-mean()-Y  
 tBodyAcc-mean()-Z  
