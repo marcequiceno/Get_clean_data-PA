@@ -118,4 +118,3 @@ The script 'run_analysis.R' make the following transformations to Human Activity
 9.	Put id labels: "subject", "Activity_ID"and "Activity_Label" to the the merge data.  
 10.	Apply mean function to dataset using dcast function.  
 11.	Write table 'tidy_data.txt'.  
-
