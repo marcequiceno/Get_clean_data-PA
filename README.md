@@ -10,5 +10,5 @@ The script 'run_analysis.R' read the files in the directory 'UCI HAR Dataset' an
 4.	Appropriately labels the data set with descriptive variable names.  
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
 
-For more information read the script codebook.
+For more information read the script Codebook in this repository.
 
